@@ -13,6 +13,15 @@
 
 - 📫 How to reach me **abdur1222.ar@gmail.com**
 
+- Connect With me on -
+
+<div  align="center">
+  <a href="https://www.facebook.com/abdurrahman1222/"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png"></img></a>
+<a href="https://www.instagram.com/arahman9223/"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png"></img></a>
+<a href="https://www.linkedin.com/in/abdur-rahman-81b290174/"><img height="50"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"></img></a>
+</div>
+  
+
 <p align="left">
 </p>
 
