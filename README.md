@@ -4,8 +4,8 @@
 
 <h1 align="center">Hi 👋, I'm Md. Abdur Rahman</h1>
 <h3 align="center">Junior Mern Stack developer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdurrahman11668" alt="abdurrahman11668" /></a> </p>
+<p>I specialize in crafting dynamic and responsive web applications. Proficient front-end technology. With a keen eye for detail and a commitment to clean, efficient code, I thrive on transforming innovative ideas into seamless, user-centric digital experiences. Constantly evolving in the ever-changing tech landscape, I bring a passion for problem-solving and a collaborative mindset to every project.</p>
+<p>My expertise includes JavaScript (ES6+), React.js, Node.js, and database management with MongoDB.</p>
 
 - 🌱 I’m currently learning **Next.js**
 
