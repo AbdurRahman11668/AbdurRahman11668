@@ -32,5 +32,14 @@
 
 <h3>Projects</h3>
 <h4>Tourist Club:</h4>
-<p><b>Description</b></p>
+<p><b>Description - </b></p>
 <p>A Tour planeer website. Where user can find their desire places to explore their desire area. And thay can easily hire a guide after they book the package.</p>
+<p>Technologies Used - </p>
+<ul>
+  <li>Frontend - React.js, Tailwind, DaisyUI</li>
+  <li>Backend - Node.js, Express</li>
+  <li>Database - MongoDB</li>
+  <li>Authentication - Firebase with JWT</li>
+</ul>
+<p><b>Links:</b></p>
+<p>LiveLink(https://tourist-club-1222.web.app)</p>
